@@ -1,0 +1,17 @@
+/* body{
+    text-align: center;
+} */
+#scroll-box{
+    overflow: scroll;
+    height: 200px;
+    width: 600px;
+    border: 2px solid black;
+    float: left;
+}
+#scroll-box p{
+    height:200px;
+    width: 200px;
+}
+#output{
+    text-align:center
+}
